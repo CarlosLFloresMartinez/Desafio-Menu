@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial;
-    background-color: rgb(234, 227, 225);
+    background-color: beige;
 }
 nav {
     position: fixed;
@@ -16,10 +16,10 @@ nav {
 }
 
 .logo {
-    background: url(logo.jpg) no-repeat 50% 50%;
+    background: url(Logo-Pollo.png) no-repeat 50% 50%;
     background-size: contain;
-    width: 250px;
-    height: 250px;
+    width: 210px;
+    height: 210px;
     float: left;
 }
 
